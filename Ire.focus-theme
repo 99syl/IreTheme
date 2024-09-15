@@ -1,0 +1,57 @@
+[3]  # Version number. Do not delete
+
+[colors]
+
+background0:                            0f1619ff # Body and dialog text area background
+background1:                            0f1919ff # Bottom layer
+background2:                            ff0000ff
+background3:                            000000aa # Dialog background
+background4:                            ffffff02 # Status bar
+selection_active:                       ffffff20 # Selection and file dialog current directory
+selection_inactive:                     ffffff10 # Background of selection on other side
+selection_highlight:                    ffffff20 # Background of other occurences of selection
+paste_animation:                        ffffff20 # Background colour during paste animation
+search_result_active:                   ffffff60 # Background of highlighted occurence
+search_result_inactive:                 ffffff20 # Background of unhighlighted occurences
+scrollbar:                              ffffff40 # Actual scrollbar
+scrollbar_background:                   ffffff20 # Scrollbar curb
+scrollbar_hover:                        ffffff30 # Whole scrollbar groove when hovered
+cursor:                                 ffffffaa # Text cursor background in body area
+splitter:                               ffffff20 # Splitter between right and left body
+splitter_hover:                         ffffff40 # Splitter while hovered
+list_cursor:                            0f1919ff # Cursor in dialog
+list_cursor_lite:                       0f2119ff # Mouse cursor in dialog
+shadow_dark:                            00000000 # Shadow at the edge of status bar and dialog
+shadow_transparent:                     00000000 # Statusbar inverse shadow
+cursor_inactive:                        0f1219ff # Search dialog text area outline
+text_input_label:                       0f1619ff # Dialog input prompt
+letter_highlight:                       ffffffff # Highlighted letters in dialog
+ui_default:                             ffffffe0 # normal letters in dialog
+ui_dim:                                 ffffff80
+ui_neutral:                             ffffff40
+ui_warning:                             ffc044e0
+ui_warning_dim:                         ffc04480
+ui_error:                               ee4444e0
+ui_error_bright:                        ee4444ff
+ui_success:                             44c044e0
+
+# Build panel colours (self-explanatory)
+build_panel_title_bar:                  0f1919aa
+build_panel_background:                 0f2019aa
+build_panel_scrollbar:                  ffffff40
+build_panel_scrollbar_hover:            ffffff30
+build_panel_scrollbar_background:       ffffff20
+
+# These are all pretty self-explanatory.
+code_default:                           ffffffe0
+code_comment:                           106214ff
+code_type:                              ffffffff
+code_function:                          ffffffff
+code_punctuation:                       ffffffff
+code_operation:                         ffffff70
+code_string:                            deb887ff
+code_value:                             76c8bfff
+code_highlight:                         ffffffaa
+code_error:                             ff0000e0
+code_keyword:                           98fb98cc
+code_warning:                           ffff60e0
